@@ -2,7 +2,7 @@
   "name": "invitation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://De-Vote.github.io/invitation/",
+  "homepage": "https://De-Vote.github.io/",
   "dependencies": {
     "bootstrap": "^5.2.1",
     "gh-pages": "^4.0.0",
